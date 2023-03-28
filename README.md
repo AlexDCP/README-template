@@ -28,4 +28,4 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-Juno Nguyen - Tutor.
+Juno Nguyen - Tutor. He helped with debugging and how to setup my code using the starter code.
