@@ -20,11 +20,11 @@ In order to run the functions th user will need to use 'nmp i' in the terminal t
 
 To get the prompts to start, path into the root folder and run node index.js.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+walkthrough video link: https://drive.google.com/file/d/10mDhYjGoKGAO7TOoF7BaqMVIBUoj6OVH/view
+
+![Screenshot](/images/readme-gen.JPG)
+
 
 ## Credits
 

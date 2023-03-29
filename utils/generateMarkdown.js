@@ -49,7 +49,6 @@ function generateMarkdown(data) {
   
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
   ${renderLicenseLink(data.license)}
 
   ## Installation
